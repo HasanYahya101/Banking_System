@@ -1,6 +1,6 @@
-# Bank Management System
+# Banking System
 ## Introduction
-Bank Management System is a C++ program that simulates a banking management system for ABC Bank. This program allows users to create and manage different types of accounts, make deposits and withdrawals, view account balances and transaction history, transfer funds, and more. It is designed to demonstrate mastery of object-oriented programming concepts such as abstraction, encapsulation, polymorphism, inheritance, association, aggregation, and composition.
+Banking System is a C++ program that simulates a banking management system for ABC Bank. This program allows users to create and manage different types of accounts, make deposits and withdrawals, view account balances and transaction history, transfer funds, and more. It is designed to demonstrate mastery of object-oriented programming concepts such as abstraction, encapsulation, polymorphism, inheritance, association, aggregation, and composition.
 
 ## Usage
 The Bank Management System allows for the following interactions:
@@ -26,6 +26,8 @@ Create a new User Client account with personal information.
 4. Approve or reject loan requests of companies.
 5. View transaction history for a specific account.
 6. Freeze or close an account if necessary.
+
+### Note: This Project is Actually Assignment 03 for the Object Oriented Subject at Fast Nuces Lhr. Check that [here](https://github.com/HasanYahya101/OOP_Assignments/tree/main/Assignment_03).
 
 ### Contributing
 Contributions to this project are welcome! Feel free to fork the repository and submit pull requests to improve the code or documentation.
