@@ -29,8 +29,8 @@ Create a new User Client account with personal information.
 
 *__>>Note: This Project is Actually [Assignment 03](https://github.com/HasanYahya101/OOP_Assignments/tree/main/Assignment_03) for the Object Oriented Subject at Fast Nuces Lhr. I created this Individual repo because it was a big Project.__*
 
-### Contributing
+### Contributing:
 Contributions to this project are welcome! Feel free to fork the repository and submit pull requests to improve the code or documentation.
 
-### License
+### License:
 This project is licensed under the MIT License - see the LICENSE file for details.
