@@ -27,7 +27,7 @@ Create a new User Client account with personal information.
 5. View transaction history for a specific account.
 6. Freeze or close an account if necessary.
 
-*__>>Note: This Project is Actually Assignment 03 for the Object Oriented Subject at Fast Nuces Lhr. Check that [here](https://github.com/HasanYahya101/OOP_Assignments/tree/main/Assignment_03)__*
+*__>>Note: This Project is Actually [Assignment 03](https://github.com/HasanYahya101/OOP_Assignments/tree/main/Assignment_03) for the Object Oriented Subject at Fast Nuces Lhr. I created this Individual repo because it was a big Project.__*
 
 ### Contributing
 Contributions to this project are welcome! Feel free to fork the repository and submit pull requests to improve the code or documentation.
